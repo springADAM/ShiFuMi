@@ -5,8 +5,9 @@ import java.util.Random;
 
 public class Game {
 
-    static Player person= new Player(),computer= new Player();
     private final String[] shifumi = {"Shi","Fu","Mi"};
+    static Player person= new Player(),computer= new Player();
+   
 
 
     public void RandomShiFuMi(){
